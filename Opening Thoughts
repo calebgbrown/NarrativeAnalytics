@@ -1,0 +1,45 @@
+1) Ten useful things:
+	1. Start with the end and work backwards… (the punch-line is the point). Even if the point of the story will change (and it probably will), it is best to be explicit about it. 
+	2. …at the same time, you’re not going to know your theme (your "so what") until you finish the first draft. Then start-over. 
+	3. Imitate the format of Jonathon Corum’s blog—with the long scroll of simple slides. He tells the story of a presentation well
+	4. Offer interpretation, and when you do, “Make me care.”
+	5. Leave important parts unsaid if you believe the audience will fill it in (and feel smarter for it).
+	6. Choose the appropriate genre, which includes a choice of the level of interactivity. 
+	7. “Drama is anticipation mixed with uncertainty.” / The best visualizations have an element of surprise. -- Here is the most that a visualization or a story can do: "And Frost (1963) suggested the solution: 'I've often said that every poem solves something for me in life. I go so far as to say that every poem is a momentary stay against the confusion of the world.... We rise out of disorder into order. And the poems I make are little bits of order.'"
+	8. Add sparse, meaningful annotation. 
+	9. Ask the “why” questions and not just the “who, what, when, where, how” questions.
+	10. One idea to frame the whole. Choosing a form that emphasizes the most salient point. Amanda Cox: "It’s about order and coming to a point." 
+	One more: The slides, individually, can be bland. It’s in the sequencing of the slides to have a memorable punch-line—that’s where the story is.
+
+2) Terms
+	I think the fuzziest word is “data”. What comes to mind is spreadsheets and relational databases and warehouses full of servers. The phrase “Big Data” focuses undue attention on the medium when we would do better to think about the message. Big Data is the medium, but the message is Big Memory. All these things help us to remember way more and, hopefully, recall details with more precision. It just gives you the chance to ask about past stories. Data gives your institution memory. 
+
+	Analysis is fruitfully asking the question "Why?" until one reaches a satisfactory explanation. You're explaining something in terms of its causes, which usually entails separating out the multiple causes at work in producing a certain phenomenon.
+
+	The Stanford math professor I saw yesterday uses these words interchangeably: “story” “model” and “theory”. 
+
+3) Story Ontology
+
+	Here is where most of my work has been focused in the last several days--I went waay deep. If you google "story ontology" what you get first is an ontology called OWL (web ontology language). It's connected with the same consortium that puts out the HTML guidelines, and it's built on another global standard called RDF (resource description framework). It's really techie and above my training. It may be worth looking for someone familiar with OWL.
+
+	When I hear the word "ontology", what I think of is metaphysics--which I consider the only field that is properly called "philosophy". Everything else called "philosophy" has a more specialized field associated with it today. For example, natural philosophy became physics, epistemology became cognitive science, ethics is now economics...but metaphysics is still the exclusive domain of philosophers (unless information science is the new field which metaphysics used to occupy...). 
+
+	Most people these days do not merge the ontology of philosophy with the ontology of information science. I say, “why not?” Shouldn’t our categories correspond to the world’s categories? There are two noteworthy ontologies that deal with reality as a whole. The best lists of categories I know which encompass all possibilities are Aristotle’s Categories and C. S. Peirce’s Categories. Aristotle's categories already have the benefit of being applied to story development in his Poetics. In fact, I have a ton of material (I haven't read yet) on Aristotle's metaphysics and ethics and how it relates to story development--in fact, that's the buried ontology for Robert McKee's Story. Aristotle is awesome, and I still want to read those documents, but Peirce may be the better choice. He is more contemporary, his star is on the rise, and his nickname is "the American Aristotle". He’s also written in English rather than Greek. I've found some papers written by philosophers / computer scientists who are trying to create ontologies inspired by Peirce's metaphysics and logic.  The gist of a Peircean ontology is that a story ontology would need to be comprised of classes, properties, and relations. Most ontologies (until recently) included classes and properties, but ignored relations, and it has been a major sin of symbolic logic and computer science to omit them. Another advantage of Peirce is that he has room for "events" in his ontology--which seems like a pre-requisite for a story ontology. 
+
+4/5) Audience
+
+	I don't know LMI as well as you guys do, but I think a good rule of thumb is to categorize the purposes of different presentations. Financial presentations, planning meetings, business development meetings, logistics planning meetings--and then there's a discrete number of relevant "points" to be made. For example, the point of a financial presentation will boil to either, "we're doing well" or "we're in trouble" or "diagnosing the problem" or "finding the best bet". This is analogous to the Dramatica framework of recognizing the story is about internal change or external change and that it will end in victory or defeat. 
+
+6/7) Finding relevant LMI information
+
+	I think for a single IO&T project there will be a significant paper trail and useful databases. Given that you guys both have intimate knowledge of IO&T, I think we should start there. As Andrew Stanton said, "write what you know". You guys already know about what's expected and what's reportable in the context of an IO&T project. This is also why I suggest sticking with LMI rather than looking for some low-hangning fruit in data.gov. That being said, if one of you finds a gem of a database in data.gov, then it may be worth using something already collected and groomed. If we go through something in data.gov, we don't go through the same collection and filtering process we would have to go through if it were a project using internal LMI data. That may be a strength or a weakness. On the one hand we've made our lives easier by focusing on presentation rather than collection and filtering. On the other, isn't part of our message that the presentation should influence all parts of the process from data collection to filtering, analysis and display? 
+
+8) Job of the storyteller: "Make me care." The fire.
+
+9) Job of the analyst: "Stick with the facts." The cold water.
+
+10) What energizes you about this project?
+
+	I'm most excited about the prospect of getting to use and deepen my story expertise AND my philosophical training--all in one project. Story Ontology? Are you kidding? That wasn't even a thing until a few months ago. I'd be thrilled to read stuff on metaphysics, logic, rhetoric, and artificial intelligence, then summarize it into something useful and actionable. After all, Peirce was a pragmatist you believed action led to thought. 
+
+Future research: David Herman, David Bordwell, web-ready ontologies, Peircean existential graphs, Aristotle on Story, "Theory Construction as Disciplined Imagination" by Karl E. Weick {The gist of this article is that innovation depends upon metaphorical thinking, and that innovators treat idea-generation as a Darwinian process where they prune down to the ideas that will survive—but this requires a selection criteria.}  

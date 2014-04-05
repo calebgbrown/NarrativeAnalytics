@@ -1,0 +1,9 @@
+Sequence # ,Scene,Action,TimecodeIN ,TimecodeOUT ,Duration ,Justification,Color
+1,,,0:00:00,0:05:17,0:05:17,Alec wants his carrot.,
+,1A,,0:00:00,0:00:13,0:00:13,Title cards,
+,1B,,0:00:16,0:01:28,0:01:12,Presto forgets to feed Alec.,
+,1C,,0:01:28,0:03:20,0:01:52,Alec attempts to halt Presto's show in order for Presto to feed him.,
+,1D,,0:03:23,0:03:55,0:00:32,"Alec retaliates on Presto's person for ""destroying"" the carrot. ",
+,1E,,0:04:08,0:04:30,0:00:22,Alec gives up in order to prevent Presto's death.,
+,1F,,0:04:34,0:04:46,0:00:12,Presto reappears the carrot. ,
+,1G,,0:04:46,0:05:17,0:00:31,Credits,

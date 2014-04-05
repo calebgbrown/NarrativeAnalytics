@@ -1,0 +1,32 @@
+Narrative Analytics
+
+Story Ontology
+
+Introduction to the Problem
+
+Depending on the service being offered and in what market, LMI employees will be delivering papers or presentations to many different audiences and in many different domains or "content verticals".The verticals would cover specific domains, models of all the moving parts of that domain (including players and events), and--especially--every plausible good or bad outcome, ranked according to the importance of such outcomes within that domain. Given the depth of each vertical and the sheer number of verticals within LMI's purview, the development of domain-specific story ontologies would be time-intensive beyond feasibility--the kind of project only an emeritus practicitioner of each domain with a lot of time on his hands would--or could--bother to complete. However, if a high-level story ontology could be designed that defined the parameters which would be used in all verticals, then such modular, standard, and uniform structures can be horizontally scaled across multiple verticals. The goal of this high-level story ontology is to define universal features of all the narratives an LMI employee could possibly tell, independent of domain and audience. On its own, the specifications in such a story ontology will be so high-level and abstract that they will appear uselessly vague. For this reason, the following description will articulate the high-level story ontology, and then apply it to an example case. The reason to pin down the subtle structure of the high-level story ontology is that it will allow domain-specific ontologies designed for the semantic web to communicate with one another across verticals, provided their ontologies can be translated into the high-level categories of the story ontology. The ultimate goal would be to translate the story ontology into a formal Semantic Web modeling language, such as RDFa.  
+
+High-Level Story Ontology
+
+In LMI's Producing Visualizations Handbook, the Visualization Triad broke down the basic constituents of any presentation, paper, web-page, video (etc.) into an irreducible triad of SOURCE, THEORY, and PROBLEM. The triad will be our superclass, and within the subclasses of Source, Theory and Problem, there will be further subclasses. 
+	SOURCE
+		Models of entities within a domain (these structure the raw data).
+		The raw data and data-feeds, including meta-data about their format. 
+	THEORY
+		Dervived features of interest which will be used to parse the data. (Depends upon an angle, which in turn depends upon a problem.)
+		Foci?
+		Structural components of a presentation (ex. introduction, argument, conclusion)
+		Organizing principle of the components (ex. chronologically; by importance; by a set conventions)
+	PROBLEM
+		Foci?
+
+RDF
+
+The construction of a story ontology seems complementary with Semantic Web goals. In fact, my recommendation is that the story ontology eventually be modeled in RDFa, a version of the Resource Description Framework (RDF) which makes the Semantic Web possible. It seems critically important to preserve the subject-predicate-object (SVO) form of RDF in order to design a true story ontology.The alternative involves adopting RDFS or OWL models, which offer the familiar and popular object-oriented adaptations of RDF. But these Object-oriented models are based on classes and properties, while a true story ontology would require the preservation of transitive predicates with causal direction and consequences. Object-oriented models are inadequate for describing the essence of story: the implied causal chains underlying a reportable change. The RDFa modeling language seems more ammenable to articulating a scalable story ontology.  
+
+
+
+In RDFa notation, here is the basic model for the  
+
+See also ZR2BF
+See also IR10R
