@@ -1,0 +1,22 @@
+Presto
+------
+Title: Presto
+
+
+Sequences:
+	- 1
+		- TimecodeIN: 0:00:00
+		- TimecodeOUT: 0:05:17
+		- Justification: Alec wants his carrot.
+		
+Annotations:
+	- 1
+		- Scene: 1A
+		- TimecodeIN: 0:00:00
+		- TimecodeOUT: 0:00:13
+		- Justification: Title cards
+	- 2
+		- Scene: 1B
+		- TimecodeIN: 0:00:16
+		- TimecodeOUT: 0:01:28
+		- Justification: Presto forgets to feed Alec.
